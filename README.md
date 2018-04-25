@@ -1,4 +1,3 @@
 # gitacommentary
 
-A Commentary on the Bhagavad Gita\n
-Gita Commentary by Swami Nirmalananda Giri
+A Commentary on the Bhagavad Gita by Swami Nirmalananda Giri
